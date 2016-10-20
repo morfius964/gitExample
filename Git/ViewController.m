@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    // Do a≤≤≤ny additional setup after loading the view, typically from a nib.
 }
 
 
@@ -28,8 +28,7 @@
     //que ondas nuvo elemeto
     //,jl
     
-    
-    
+    //sdfsdfd
     
 }
 
