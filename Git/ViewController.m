@@ -24,7 +24,10 @@
     [super didReceiveMemoryWarning];
     // Dose of any resources that can be recreated.
     //hoolasdf
+    
+    //que ondas nuvo elemeto
     //,jl
+    
     
     
     
