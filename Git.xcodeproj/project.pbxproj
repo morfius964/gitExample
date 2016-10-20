@@ -14,6 +14,7 @@
 		04F7BDEE1DB9505800D35088 /* Git.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 04F7BDEC1DB9505800D35088 /* Git.xcdatamodeld */; };
 		04F7BDF01DB9505800D35088 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04F7BDEF1DB9505800D35088 /* Assets.xcassets */; };
 		04F7BDF31DB9505800D35088 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04F7BDF11DB9505800D35088 /* LaunchScreen.storyboard */; };
+		04F7BDFC1DB95EE900D35088 /* 2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F7BDFB1DB95EE900D35088 /* 2ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		04F7BDEF1DB9505800D35088 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04F7BDF21DB9505800D35088 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04F7BDF41DB9505800D35088 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04F7BDFA1DB95EE900D35088 /* 2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = 2ViewController.h; sourceTree = "<group>"; };
+		04F7BDFB1DB95EE900D35088 /* 2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = 2ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,8 @@
 				04F7BDE41DB9505800D35088 /* AppDelegate.m */,
 				04F7BDE61DB9505800D35088 /* ViewController.h */,
 				04F7BDE71DB9505800D35088 /* ViewController.m */,
+				04F7BDFA1DB95EE900D35088 /* 2ViewController.h */,
+				04F7BDFB1DB95EE900D35088 /* 2ViewController.m */,
 				04F7BDE91DB9505800D35088 /* Main.storyboard */,
 				04F7BDEF1DB9505800D35088 /* Assets.xcassets */,
 				04F7BDF11DB9505800D35088 /* LaunchScreen.storyboard */,
@@ -156,6 +161,7 @@
 				04F7BDEE1DB9505800D35088 /* Git.xcdatamodeld in Sources */,
 				04F7BDE81DB9505800D35088 /* ViewController.m in Sources */,
 				04F7BDE51DB9505800D35088 /* AppDelegate.m in Sources */,
+				04F7BDFC1DB95EE900D35088 /* 2ViewController.m in Sources */,
 				04F7BDE21DB9505800D35088 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -313,6 +319,7 @@
 				04F7BDF91DB9505800D35088 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
